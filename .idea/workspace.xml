@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26b39d28-4c2f-4f30-ae33-c6945f61e804" name="Changes" comment="docs(answer): transaction 정리 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023-01-26__3_44__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023-01-26__3_44__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer.md" beforeDir="false" afterPath="$PROJECT_DIR$/answer.md" afterDir="false" />
-    </list>
+    <list default="true" id="26b39d28-4c2f-4f30-ae33-c6945f61e804" name="Changes" comment="사소한 수정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674669660970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="asdf">
+      <created>1674672563776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674672563776</updated>
+    </task>
+    <task id="LOCAL-00003" summary="사소한 수정">
+      <created>1674672594511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674672594511</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +121,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docs(answer): transaction 정리 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs(answer): transaction 정리 추가" />
+    <MESSAGE value="asdf" />
+    <MESSAGE value="사소한 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="사소한 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
